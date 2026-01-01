@@ -1,0 +1,7 @@
+{
+  "name": "Mowan Waffle Digital DM & AI Photo Editor",
+  "description": "A digital menu and AI-powered photo editor for Mowan Waffles. View the menu and use Gemini 2.5 Flash Image to enhance your food photos with custom text prompts.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
